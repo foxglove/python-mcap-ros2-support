@@ -1,6 +1,6 @@
-# Python MCAP Ros1 support
+# Python MCAP ROS 2 support
 
-This package provides ROS2 support for the Python MCAP file format reader &amp;
+This package provides ROS 2 support for the Python MCAP file format reader &amp;
 writer. This is a work in progress and is not ready for use yet.
 
 ## Installation
